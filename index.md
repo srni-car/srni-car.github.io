@@ -23,7 +23,7 @@ To learn more about this dataset and to get inspiration from application example
 # Dataset Overview
 
 ## Sales data
-| Variables                   | Description                                                                                        | 
+| Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Car series                  | Name of the car series.                                                                            |
 | Brand                       | Name of the brand.                                                                                 |
@@ -39,7 +39,7 @@ To learn more about this dataset and to get inspiration from application example
 | Sales                       | Total sales of the car series in the month.                                                        |
 
 ## Reviews
-| Variables                   | Description                                                                                        | 
+| Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Car series                  | Name of the car series.                                                                            |
 | Brand                       | Name of the brand.                                                                                 |
@@ -86,7 +86,7 @@ To learn more about this dataset and to get inspiration from application example
 | Comfort comments            | User's comments on the comfort of the vehicle.                                                     |
 
 ## News and information
-| Variables                   | Description                                                                                        | 
+| Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Title                       | Title of the information.                                                                          |
 | Pageview                    | Number of times the information was viewed.                                                        |
@@ -105,7 +105,7 @@ To learn more about this dataset and to get inspiration from application example
 |:------------|:----------------|:---------|
 | Sales       | csv (3.39 MB)   | [link](https://figshare.com/ndownloader/files/42438726?private_link=255ef697e8b7e3115087) |
 | Reviews     | csv (457.74 MB) | [link](https://figshare.com/ndownloader/files/42438720?private_link=255ef697e8b7e3115087) |
-| Information | csv (213.69 MB) | [link](https://figshare.com/ndownloader/files/42438729?private_link=255ef697e8b7e3115087) |
+| News and Information | csv (213.69 MB) | [link](https://figshare.com/ndownloader/files/42438729?private_link=255ef697e8b7e3115087) |
 
 # Citation
 
