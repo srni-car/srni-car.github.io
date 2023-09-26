@@ -22,7 +22,8 @@ To learn more about this dataset and to get inspiration from application example
 
 # Dataset Overview
 
-## Sales data
+## Sales data    
+
 | Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Car series                  | Name of the car series.                                                                            |
@@ -38,7 +39,8 @@ To learn more about this dataset and to get inspiration from application example
 | Brand entered China date    | Year when the brand officially entered the Chinese market.                                         |
 | Sales                       | Total sales of the car series in the month.                                                        |
 
-## Reviews
+## Reviews    
+
 | Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Car series                  | Name of the car series.                                                                            |
@@ -85,7 +87,8 @@ To learn more about this dataset and to get inspiration from application example
 | Driving comments            | User's comments on the driving of the vehicle.                                                     |
 | Comfort comments            | User's comments on the comfort of the vehicle.                                                     |
 
-## News and information
+## News and information    
+
 | Variables                   | Description                                                                                        |
 |:----------------------------|:---------------------------------------------------------------------------------------------------|
 | Title                       | Title of the information.                                                                          |
