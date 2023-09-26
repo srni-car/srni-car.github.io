@@ -2,11 +2,18 @@
 layout: default
 ---
 
-![Wordclouds](Wordclouds.png)
+![logo](logo.png)
+
+---
 
 The SRNI-CAR dataset aims to make up for the inability of existing data sets in the automotive industry to meet a variety of business analysis needs.
 It contains a large amount of information related to China's auto industry from 2016 to 2022, including sales data, online reviews, industry news, and more.
 To learn more about this dataset and to get inspiration from application examples of its use in automotive analysis, please refer to our [paper](#Citation).
+
+     
+![Data_example](Data_example.png)
+
+
 
 # Contributions
 
@@ -15,9 +22,82 @@ To learn more about this dataset and to get inspiration from application example
 
 # Dataset Overview
 
-Click for larger image
+## Sales data
+| Variables                   | Description                                                                                        | 
+|:----------------------------|:---------------------------------------------------------------------------------------------------|
+| Car series                  | Name of the car series.                                                                            |
+| Brand                       | Name of the brand.                                                                                 |
+| Year                        | Year in which the car series was sold.                                                             |
+| Month                       | Month in which the car series was sold.                                                            |
+| Car model type              | Car model category: Sedan, SUV and MPV.                                                            |
+| Brand energy type           | Brand category based on energy type of vehicle produced.                                           |
+| Size                        | Vehicle size: mini, minivan, minibus, small, compact, mid-size, larger than mid-size, full-size.   |
+| Brand country of origin     | Country in which the brand was created.                                                            |
+| Model launch date           | Year when the car series was launched on the Chinese market.                                       |
+| Brand establishment date    | Year the brand was created.                                                                        |
+| Brand entered China date    | Year when the brand officially entered the Chinese market.                                         |
+| Sales                       | Total sales of the car series in the month.                                                        |
 
-[![Overview](Overview.png)](Overview.png)
+## Reviews
+| Variables                   | Description                                                                                        | 
+|:----------------------------|:---------------------------------------------------------------------------------------------------|
+| Car series                  | Name of the car series.                                                                            |
+| Brand                       | Name of the brand.                                                                                 |
+| Size                        | Vehicle size: mini, minivan, minibus, small, compact, mid-size, larger than mid-size, full-size.   |
+| Car model type              | Car model category: Sedan, SUV and MPV.                                                            |
+| User ID                     | Name that users use when making online reviews.                                                    |
+| Year of review              | Year when the user reviews.                                                                        |
+| Month of review             | Month when the user reviews.                                                                       |
+| Specific model purchased    | Specific model of a car series purchased by a user.                                                |
+| Official price              | Official prices for specific models purchased.                                                     |
+| Car energy type             | Vehicle energy type: gasoline vehicle, diesel vehicle, hydrogen vehicle, and so on.                |
+| Brand energy type           | Brand category based on energy type of vehicle produced.                                           |
+| Brand country of origin     | Country in which the brand was created.                                                            |
+| Brand establishment date    | Year the brand was created.                                                                        |
+| Brand entered China date    | Year when the brand officially entered the Chinese market.                                         |
+| Model launch date           | Year when the car series was launched on the Chinese market.                                       |
+| Year of purchase            | Year the user purchased the model.                                                                 |
+| Month of purchase           | Month the user purchased the model.                                                                |
+| Sales                       | Total sales of the car series in the month when the user purchased the model.                      |
+| Experience duration         | Months between purchase date and review posting date.                                              |
+| Province                    | Province in which the user purchased the model.                                                    |
+| City                        | City in which the user purchased the model.                                                        |
+| Transaction price           | Real transaction price of the model.                                                               |
+| Average energy consumption  | Gasoline, diesel, electricity, or hydrogen consumed for every 100 kilometers traveled.             |
+| Mileage                     | Kilometers the user has driven the model at the date the review was posted.                        |
+| Overall rating              | User's overall rating of the vehicle purchased.                                                    |
+| Exterior rating             | User's rating of the exterior of the vehicle.                                                      |
+| Interior rating             | User's rating of the interior of the vehicle.                                                      |
+| Space rating                | User's rating of the space of the vehicle.                                                         |
+| Features rating             | User's rating of the feature of the vehicle.                                                       |
+| Power rating                | User's rating of the power of the vehicle.                                                         |
+| Energy consumption rating   | User's rating of the energy consumption of the vehicle.                                            |
+| Driving rating              | User's rating of the driving of the vehicle.                                                       |
+| Comfort rating              | User's rating of the comfort of the vehicle.                                                       |
+| Advantage                   | The advantages of the model as perceived by the user.                                              |
+| Disadvantage                | The disadvantage of the model as perceived by the user.                                            |
+| Exterior comments           | User's comments on the exterior of the vehicle.                                                    |
+| Interior comments           | User's comments on the interior of the vehicle.                                                    |
+| Space comments              | User's comments on the space of the vehicle.                                                       |
+| Features comments           | User's comments on the feature of the vehicle.                                                     |
+| Power comments              | User's comments on the power of the vehicle.                                                       |
+| Energy consumption comments | User's comments on the energy consumption of the vehicle.                                          |
+| Driving comments            | User's comments on the driving of the vehicle.                                                     |
+| Comfort comments            | User's comments on the comfort of the vehicle.                                                     |
+
+## News and information
+| Variables                   | Description                                                                                        | 
+|:----------------------------|:---------------------------------------------------------------------------------------------------|
+| Title                       | Title of the information.                                                                          |
+| Pageview                    | Number of times the information was viewed.                                                        |
+| Number of comments          | Number of comments the information received.                                                       |
+| Text                        | Text content contained in the information.                                                         |
+| Release date                | Date on which this information was published.                                                      |
+| Author                      | Person who posted the information.                                                                 |
+| Source                      | Source of the information.                                                                         |
+| Information type            | Whether the information is original, compiled, a press release, or reprinted from another platform.|
+| Information label           | Labels chosen by the author that summarizes the information, based on its content.                 |
+
 
 # Downloads
 
@@ -44,8 +124,12 @@ If you publish work based on, or using, this dataset, we would appreciate citati
 ```
 
 # Contact
+Ruixin Ding   
+2589583d@student.gla.ac.uk       
 
-bowei[dot]chen[at]glasgow[dot]ac[dot]uk
+    
+Bowei Chen   
+bowei.chen@glasgow.ac.uk
 
 # License
 
