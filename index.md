@@ -4,23 +4,19 @@ layout: default
 
 ![logo](logo.png)
 
----
-
-The SRNI-CAR dataset aims to make up for the inability of existing data sets in the automotive industry to meet a variety of business analysis needs.
-It contains a large amount of information related to China's auto industry from 2016 to 2022, including sales data, online reviews, industry news, and more.
-To learn more about this dataset and to get inspiration from application examples of its use in automotive analysis, please refer to our [paper](#Citation).
-
+---  
      
-![Data_example](Data_example.png)
+![Data_example](Data_example.png)    
 
+# About
 
+The SRNI-CAR dataset addresses the limitations in current automotive industry datasets, offering a robust solution for various business analytics needs. Spanning the period from 2016 to 2022, it encompasses a wide-ranging repository of data pertinent to China's automobile sector, encompassing crucial facets such as sales data, online reviews, and industry news.
 
-# Contributions
+What makes the SRNI-CAR dataset stand out is its combination of industry news, development insights, automotive marketing data, consumer online reviews, and sales information. It also introduces previously unavailable variables like model launch dates and brand entry dates. This broader scope opens up new possibilities for research compared to existing datasets, improving both analytical accuracy and interpretability.
 
-1.  The SRNI-CAR dataset not only consolidates industry news, development insights, automotive marketing data, consumer online reviews, and sales information but also introduces valuable variables previously absent, such as model launch dates and brand inception dates. Therefore, it supports a broader spectrum of research possibilities compared to existing publicly available datasets in the automotive domain. Furthermore, it enhances analytical accuracy and interpretability. 
-2.  The SRNI-CAR dataset possesses substantial business value in the automotive sector. Sales data aids automakers and marketers in discerning market trends, while review data facilitates the identification of consumer preferences, evaluation of marketing effectiveness, and product strengths and weaknesses analysis. Incorporating industry news, development insights, and automotive publicity empowers automakers to grasp industry trends and market competition. 
+In the automotive sector, the SRNI-CAR dataset holds significant business value. Sales data helps automakers and marketers track market trends, while review data aids in understanding consumer preferences, assessing marketing effectiveness, and analyzing product strengths and weaknesses. Additionally, including industry news, development insights, and automotive publicity empowers automakers to stay informed about industry trends and competition.   
 
-# Dataset Overview
+# Dataset Description
 
 ## Sales data    
 
