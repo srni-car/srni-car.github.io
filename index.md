@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](logo.png)
+![logo](logo_2.png)
 
 ---  
      
