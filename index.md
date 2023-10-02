@@ -123,12 +123,9 @@ If you publish work based on, or using, this dataset, we would appreciate citati
 ```
 
 # Contact
-Ruixin Ding   
-2589583d@student.gla.ac.uk       
+Ruixin Ding [(2589583d@student.gla.ac.uk)](mailto:2589583d@student.gla.ac.uk)
 
-    
-Bowei Chen   
-bowei.chen@glasgow.ac.uk
+Bowei Chen [(bowei.chen@glasgow.ac.uk)](mailto:bowei.chen@glasgow.ac.uk)
 
 # License
 
