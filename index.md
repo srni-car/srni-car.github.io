@@ -114,11 +114,10 @@ If you publish work based on, or using, this dataset, we would appreciate citati
 @inproceedings{ding23srnicar,
    author = {Ruixin Ding and Bowei Chen and James M. Wilson and Zhi Yan and Yufei Huang},
    title = {SRNI-CAR: A Comprehensive Dataset for Analyzing the Chinese Automotive Market},
-   booktitle = {},
-   pages = {},
-   address = {},
-   month = {},
-   year = {}
+   booktitle = {Proceedings of 2023 IEEE International Conference on Big Data (BigData)},
+   pages = {3405--3412},
+   month = {12},
+   year = {2023}
 }
 ```
 
