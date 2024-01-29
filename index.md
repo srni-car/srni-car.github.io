@@ -103,7 +103,7 @@ In the automotive sector, the SRNI-CAR dataset holds significant business value.
 | Data type   | Format (size)   | Download |
 |:------------|:----------------|:---------|
 | Sales       | csv (3.6 MB)   | [link](https://figshare.com/ndownloader/files/42438726?private_link=255ef697e8b7e3115087) |
-| Reviews     | csv (480 MB) | [link](https://figshare.com/ndownloader/files/42438720?private_link=255ef697e8b7e3115087) |
+| Reviews     | csv (480 MB) | [link](https://figshare.com/ndownloader/files/44295110?private_link=255ef697e8b7e3115087) |
 | News and Information | csv (224 MB) | [link](https://figshare.com/ndownloader/files/42438729?private_link=255ef697e8b7e3115087) |
 
 # Citation
