@@ -108,7 +108,7 @@ In the automotive sector, the SRNI-CAR dataset holds significant business value.
 
 # Citation
 
-If you use this dataset in your research or published work, we kindly ask that you cite our [paper](BigData_2023_SRNICAR.pdf) as follows:
+If you find this dataset useful in your work, please consider citing our [resource paper](BigData_2023_SRNICAR.pdf) as follows:
 
 ```bibtex
 @inproceedings{ding23srnicar,
@@ -121,10 +121,10 @@ If you use this dataset in your research or published work, we kindly ask that y
 }
 ```
 
-
 # Contact
-- Ruixin Ding, Adam Smith Business School, University of Glasgow [(2589583d@student.gla.ac.uk)](mailto:2589583d@student.gla.ac.uk)
-- Bowei Chen, Adam Smith Business School, University of Glasgow [(bowei.chen@glasgow.ac.uk)](mailto:bowei.chen@glasgow.ac.uk)
+Ruixin Ding, Adam Smith Business School, University of Glasgow [(2589583d@student.gla.ac.uk)](mailto:2589583d@student.gla.ac.uk)
+
+Bowei Chen, Adam Smith Business School, University of Glasgow [(bowei.chen@glasgow.ac.uk)](mailto:bowei.chen@glasgow.ac.uk)
 
 # License
 
